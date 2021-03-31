@@ -1,1 +1,1 @@
-Person that codes Lua nothing fancy
+I created this because I didn't know how a ReadMe works 😆
